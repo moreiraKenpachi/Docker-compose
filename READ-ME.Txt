@@ -1,0 +1,13 @@
+
+
+iniciar docker:
+docker-compose up -d
+
+depois(opcionalmente), inicializar com o comando:
+npm run dev
+
+fazer o pulling com o docker
+****************************
+
+
+
